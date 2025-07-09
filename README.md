@@ -102,9 +102,6 @@ source venv/bin/activate  # Windows: venv\Scripts\activate
 pip install -r requirements.txt
 📦 Sample requirements.txt:
 
-nginx
-Copy
-Edit
 pandas
 numpy
 scikit-learn
@@ -115,8 +112,7 @@ xgboost
 Ensure heart.csv is in the same directory.
 
 bash
-Copy
-Edit
+
 python enhanced_heart_disease_predictor_v4.py
 This script will:
 
@@ -131,9 +127,7 @@ Output evaluation results
 Launch an interactive prediction CLI
 
 Example:
-text
-Copy
-Edit
+
 Enter new patient data for prediction (or type 'quit' to exit):
   -> Enter value for 'age': 55
   -> Enter value for 'cholesterol': 250
@@ -211,11 +205,3 @@ Supervisor: Dr. Harald Stein
 Institution: Universities of Europe, Potsdam
 
 Dataset: Heart Attack Prediction Dataset on Kaggle
-
-yaml
-Copy
-Edit
-
----
-
-Let me know if you'd like a badge section (e.g., build passing, license, contributors), GitHub Actions CI workflow, or visuals like sample plots/screenshots.
