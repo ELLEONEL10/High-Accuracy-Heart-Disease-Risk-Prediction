@@ -1,0 +1,59 @@
+Profile 1: Moderate Risk
+'age': 52
+'cholesterol': 230
+'heart rate': 85
+'diabetes': 0
+'family history': 1
+'smoking': 1
+'obesity': 1
+'alcohol consumption': 1
+'exercise hours per week': 2
+'previous heart problems': 0
+'medication use': 0
+'stress level': 6
+'sedentary hours per day': 9
+'income': 75000
+'bmi': 28
+'triglycerides': 180
+'physical activity days per week': 2
+'sleep hours per day': 6
+
+Profile 2: Moderate Risk
+'age': 48
+'cholesterol': 215
+'heart rate': 80
+'diabetes': 0
+'family history': 0
+'smoking': 1
+'obesity': 1
+'alcohol consumption': 1
+'exercise hours per week': 1.5
+'previous heart problems': 0
+'medication use': 1
+'stress level': 7
+'sedentary hours per day': 10
+'income': 95000
+'bmi': 29
+'triglycerides': 190
+'physical activity days per week': 3
+'sleep hours per day': 6
+
+Profile 3: Moderate Risk
+'age': 55
+'cholesterol': 245
+'heart rate': 78
+'diabetes': 1
+'family history': 0
+'smoking': 0
+'obesity': 1
+'alcohol consumption': 0
+'exercise hours per week': 3
+'previous heart problems': 0
+'medication use': 1
+'stress level': 5
+'sedentary hours per day': 8
+'income': 55000
+'bmi': 27
+'triglycerides': 170
+'physical activity days per week': 3
+'sleep hours per day': 7

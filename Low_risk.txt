@@ -1,0 +1,59 @@
+Profile 1: Low Risk
+age: 32
+cholesterol: 180
+heart rate: 70
+diabetes: 0
+family history: 0
+smoking: 0
+obesity: 0
+alcohol consumption: 0
+exercise hours per week: 5
+previous heart problems: 0
+medication use: 0
+stress level: 3
+sedentary hours per day: 6
+income: 60000
+bmi: 22
+triglycerides: 130
+physical activity days per week: 5
+sleep hours per day: 8
+
+Profile 2: Low Risk
+age: 28
+cholesterol: 175
+heart rate: 65
+diabetes: 0
+family history: 0
+smoking: 0
+obesity: 0
+alcohol consumption: 1
+exercise hours per week: 7
+previous heart problems: 0
+medication use: 0
+stress level: 2
+sedentary hours per day: 5
+income: 85000
+bmi: 21
+triglycerides: 110
+physical activity days per week: 6
+sleep hours per day: 7
+
+Profile 3: Low Risk
+age: 40
+cholesterol: 190
+heart rate: 72
+diabetes: 0
+family history: 0
+smoking: 0
+obesity: 0
+alcohol consumption: 0
+exercise hours per week: 4
+previous heart problems: 0
+medication use: 0
+stress level: 4
+sedentary hours per day: 7
+income: 110000
+bmi: 24
+triglycerides: 145
+physical activity days per week: 4
+sleep hours per day: 7

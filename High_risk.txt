@@ -1,0 +1,59 @@
+Profile 1: High Risk
+'age': 65
+'cholesterol': 280
+'heart rate': 95
+'diabetes': 1
+'family history': 1
+'smoking': 1
+'obesity': 1
+'alcohol consumption': 0
+'exercise hours per week': 0.5
+'previous heart problems': 1
+'medication use': 1
+'stress level': 8
+'sedentary hours per day': 12
+'income': 45000
+'bmi': 32
+'triglycerides': 250
+'physical activity days per week': 1
+'sleep hours per day': 5
+
+Profile 2: High Risk
+'age': 72
+'cholesterol': 260
+'heart rate': 90
+'diabetes': 1
+'family history': 1
+'smoking': 0
+'obesity': 1
+'alcohol consumption': 1
+'exercise hours per week': 1
+'previous heart problems': 1
+'medication use': 1
+'stress level': 7
+'sedentary hours per day': 10
+'income': 62000
+'bmi': 31
+'triglycerides': 220
+'physical activity days per week': 2
+'sleep hours per day': 6
+
+Profile 3: High Risk
+'age': 68
+'cholesterol': 305
+'heart rate': 88
+'diabetes': 1
+'family history': 1
+'smoking': 1
+'obesity': 1
+'alcohol consumption': 1
+'exercise hours per week': 0
+'previous heart problems': 1
+'medication use': 1
+'stress level': 9
+'sedentary hours per day': 14
+'income': 40000
+'bmi': 34
+'triglycerides': 300
+'physical activity days per week': 0
+'sleep hours per day': 5
