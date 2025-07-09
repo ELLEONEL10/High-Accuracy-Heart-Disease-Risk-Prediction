@@ -10,8 +10,8 @@ Developed as part of the Artificial Intelligence course (SS 2025) at the Univers
 | Name            | Role          |
 |-----------------|---------------|
 | Fadi Abbara     | Coding        |
-| Anas Zahran     | Presentation  | 
-| Baraa Alkilany  | Documentation | 
+| Anas Zahran     | Documentation |
+| Baraa Alkilany  | Presentation  | 
 | Hayyan Azzam    | Documentation | 
 
 **Project Supervisor:** *Dr. Harald Stein*
