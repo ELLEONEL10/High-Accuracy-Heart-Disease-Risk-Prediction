@@ -14,7 +14,7 @@ Developed as part of the Artificial Intelligence course (SS 2025) at the Univers
 | Baraa Alkilany  | Documentation | 
 | Hayyan Azzam    | Documentation | 
 
-**Project Supervisor:** *The Professor*
+**Project Supervisor:** *Dr. Harald Stein*
 
 ---
 
@@ -206,7 +206,7 @@ Distributed under the MIT License.
 See LICENSE for more information.
 
 🙏 Acknowledgements
-Supervisor: The Professor
+Supervisor: Dr. Harald Stein
 
 Institution: Universities of Europe, Potsdam
 
